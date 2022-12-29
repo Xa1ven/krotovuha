@@ -17,7 +17,7 @@ print(Z)
 Z = np.zeros(10)
 Z[4] = 1
 print(Z)
-```
+
 7. Create a vector with values ranging from 10 to 49 (★☆☆)
 
 Z = np.arange(10,50)
